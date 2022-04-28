@@ -27,7 +27,8 @@
 
 ## You can always count on me when...
 
-*For all I can do... sorry, all I'm able to do. *
+*For all I can do... sorry, all I'm able to do*
+
 *Non mais quand je peux rendre service, je ne refuse jamais*
 
 ## A funny story
