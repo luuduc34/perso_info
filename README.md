@@ -2,7 +2,7 @@
 
 *Bonne journée !*
 
-![photo de profil facebook](img_facebook.jpg "Photo" =100x100)
+![photo de profil facebook](img_facebook.jpg "Photo" =100x)
 
 ## "Me, in one sentence" 
 
