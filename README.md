@@ -8,6 +8,7 @@
 
 ## "Zzzzzzzen" 
 
+|                     |          |
 |:--------------------|:---------|
 | Birthday            | 27/09    |
 | Favorite color      | red      |
