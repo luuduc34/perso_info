@@ -1,10 +1,12 @@
 ## **Luu Duc**
 
-*Bonne journée !*
+["Fais ce que tu dois faire pour faire ce que t'as envie de faire" ](https://www.youtube.com/watch?v=QnmJEHjPuIU "Hollande discours")
 
 <img src="img_facebook.jpg" alt="photo de profil" width="200"/>
 
-## "Me, in one sentence" 
+<!-- ![photo de profil facebook](img_facebook.jpg "Photo") -->
+
+## "Zzzzzzzen" 
 
 
 |   Birthday    |  Favorite color   | favorite food  | Pinneaple on pizza |
@@ -23,11 +25,11 @@
 
 ## You can always count on me when...
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+Doing my best for positive thinking. It must go, let it go !
 
 ## A funny story
 
-Tell a short funny story about your life.
+[The Story : The Duck in the lake](https://www.shortstories.net/story-the-ducks-in-the-lake/ "Duck's story")
 
-<< previous || Duc Luu || next >>
+
+[<< previous](https://github.com/kingdragox99/markdown-challenge "previous guy") || Duc Luu || [next >>](https://github.com/DorianMairy/DorianMairy "next guy")
