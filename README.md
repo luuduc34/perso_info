@@ -2,13 +2,7 @@
 
 *Bonne journée !*
 
-<<<<<<< HEAD
 <img src="img_facebook.jpg" alt="photo de profil" width="200"/>
-
-<!-- ![photo de profil facebook](img_facebook.jpg "Photo") -->
-=======
-![photo de profil facebook](img_facebook.jpg "Photo" =100x)
->>>>>>> d8d90ccec8cf37facd960f2cd53352f81edaf59d
 
 ## "Me, in one sentence" 
 
