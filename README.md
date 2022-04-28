@@ -2,7 +2,7 @@
 
 *Bonne journée !*
 
-![Texte alternatif](img_facebook.jpg "Je suis Isaac Newton")
+![photo de profil facebook](img_facebook.jpg "Photo")
 
 ## "Me, in one sentence" 
 
