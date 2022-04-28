@@ -1,4 +1,3 @@
-# markdown-challenge
 ## **Luu Duc**
 
 *Bonne journée !*
@@ -15,3 +14,20 @@
 
 ## Hobbies
 
+* Photography
+* Music
+* Movie
+    * Forest Gump
+    * Appolo 13
+* Food
+
+## You can always count on me when...
+
+Tell your teammates which positive contribution to the group you will make.
+This could be technical, making people feel comfortable, being an organiser...
+
+## A funny story
+
+Tell a short funny story about your life.
+
+<< previous || Duc Luu || next >>
