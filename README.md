@@ -1,6 +1,6 @@
 ## **Duc Luu**
 
-["Fais ce que tu dois faire pour faire ce que t'as envie de faire" ](https://www.youtube.com/watch?v=QnmJEHjPuIU "Hollande discours")
+*["Fais ce que tu dois faire pour faire ce que t'as envie de faire" ](https://www.youtube.com/watch?v=QnmJEHjPuIU "Hollande discours")*
 
 <img src="img_facebook.jpg" alt="photo de profil" width="200"/>
 
@@ -27,7 +27,7 @@
 
 ## You can always count on me when...
 
-Doing my best for positive thinking. It must go, let it go !
+*Doing my best for positive thinking. It must go, let it go !*
 
 ## A funny story
 
