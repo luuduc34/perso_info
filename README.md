@@ -8,11 +8,11 @@
 
 ## "Zzzzzzzen" 
 
-| Birthday            | 27/09
-| Favorite color      | red
-| Favorite food       | pizza
-| Pinneapple on pizza | -[ ] Yes
-                        -[X] No
+| Birthday            | 27/09    |
+| Favorite color      | red      |
+| Favorite food       | pizza    |
+| Pinneapple on pizza | -[ ] Yes |
+|                     |  -[X] No |
 
 ## Hobbies
 
