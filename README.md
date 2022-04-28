@@ -27,7 +27,7 @@
 
 ## You can always count on me when...
 
-*Doing my best for positive thinking. It must go, let it go !*
+*For all I can do... sorry, all I'm able to do*
 
 ## A funny story
 
